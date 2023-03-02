@@ -6,6 +6,6 @@ Now the cat Photo app is complete.
 
 Cafe Menu App design is also completed, it uses intermediate HTML with basic CSS.
 
-Here is the design :
+Here is the design:
 
 ![image](https://user-images.githubusercontent.com/88979046/221378578-734b9cab-c2e4-4d08-bc11-33a164481104.png)
