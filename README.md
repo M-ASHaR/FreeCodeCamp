@@ -12,9 +12,27 @@ Here is the design:
 
 After Completing the Cafe Menu App, i have completed another task assigned i.e. the "CSS coloring" task. It uses almost all the coloring techniques that are used in CSS styling. It is build from the scratch.
 
-This design is ostly using the #divs, #borderings and #colorings.
+This design is mostly using the #divs, #borderings and #colorings.
 
 Preview is as folows:
 
 ![image](https://user-images.githubusercontent.com/88979046/222803165-29f4a4ce-bb09-4233-8801-a78eb3eb8374.png)
+
+Task#3...
+
+Registration form.. is completed, uses both HTML and CSS. Now it is only Laptop responsive. For designing purposes both HTML and CSS is used.
+
+Preview:
+
+1:
+
+![image](https://user-images.githubusercontent.com/88979046/222986768-11ed4438-deb1-48e4-9274-cb1cd78e269b.png)
+
+
+2:
+
+![image](https://user-images.githubusercontent.com/88979046/222986814-d5aeffb1-97c1-4119-9b30-8612c0e4b627.png)
+
+
+
 
