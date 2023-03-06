@@ -14,7 +14,7 @@ After Completing the Cafe Menu App, i have completed another task assigned i.e. 
 
 This design is mostly using the #divs, #borderings and #colorings.
 
-Preview is as folows:
+Preview is as folows :
 
 ![image](https://user-images.githubusercontent.com/88979046/222803165-29f4a4ce-bb09-4233-8801-a78eb3eb8374.png)
 
