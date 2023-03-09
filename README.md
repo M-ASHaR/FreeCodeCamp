@@ -34,5 +34,16 @@ Preview:
 ![image](https://user-images.githubusercontent.com/88979046/222986814-d5aeffb1-97c1-4119-9b30-8612c0e4b627.png)
 
 
+Survey Form(Assignment#1)
+
+Survey Form is created from scratch consisting of HTML and CSS.
+
+Preview:
+
+![image](https://user-images.githubusercontent.com/88979046/224143418-d0c98a6e-05c0-4d33-8bea-16378118923d.png)
+![image](https://user-images.githubusercontent.com/88979046/224143517-cba0dfa1-10a1-41d9-ad68-9f406acb08d6.png)
+
+
+
 
 
